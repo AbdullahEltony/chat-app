@@ -1,3 +1,4 @@
+![chat](https://github.com/user-attachments/assets/ca576dad-98a4-41c6-9af2-cdd4b293ad99)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
